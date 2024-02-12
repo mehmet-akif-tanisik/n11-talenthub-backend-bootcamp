@@ -100,6 +100,17 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Talenthub Bootcamp - N11 & Patika
 
-![n11-logo](../img/n11-logo.png)
+<div align="center">
+  <a href="https://www.n11.com/">
+    <img src="../img/n11-logo.png" alt="Logo" width="220" height="200">
+  </a>
 
-![patika-logo](../img/patika-logo.png)
+<h3 align="center">Company: N11.com</h3>
+</div>
+
+<div align="center">
+  <a href="https://www.patika.dev/">
+    <img src="../img/patika-logo.png" alt="Logo" width="350" height="300">
+  </a>
+<h3 align="center">Organizer: Patika.dev</h3>   
+</div>

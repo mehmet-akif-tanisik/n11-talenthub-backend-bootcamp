@@ -102,7 +102,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <div align="center">
   <a href="https://www.n11.com/">
-    <img src="../img/n11-logo.png" alt="Logo" width="220" height="200">
+    <img src="../img/n11-logo.png" alt="Logo" width="220" height="140">
   </a>
 
 <h3 align="center">Company: N11.com</h3>

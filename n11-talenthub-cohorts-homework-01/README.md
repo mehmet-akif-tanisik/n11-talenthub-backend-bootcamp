@@ -69,7 +69,7 @@ List<Property> filteredCottages = propertyService.filterPropertiesByRoomAndLivin
 ```
 
 ## Screenshot of Project Output
-![Homework-01-screenshot](../img/homework-01/homework-01.png)
+![Homework-01-screenshot](../img/homework-01/homework-ss-01.png)
 
 ## License
 

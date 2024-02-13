@@ -50,8 +50,8 @@ public class App {
             filteredVillasByRoomsAndLivingRoomNumber.forEach(System.out::println);
         }
         System.out.println("-----------------------------------------------------------------------------------------------------");
-        System.out.println("Filter properties by number of rooms and number of living rooms: 2 rooms, 2 living room, propertyType = SUMMER_COTTAGE");
-        List<Property> filteredSummerCottagesByRoomsAndLivingRoomNumber = propertyService.filterPropertiesByRoomAndLivingRoom(2,1,PropertyType.SUMMER_COTTAGE);
+        System.out.println("Filter properties by number of rooms and number of living rooms: 3 rooms, 1 living room, propertyType = SUMMER_COTTAGE");
+        List<Property> filteredSummerCottagesByRoomsAndLivingRoomNumber = propertyService.filterPropertiesByRoomAndLivingRoom(3,1,PropertyType.SUMMER_COTTAGE);
         if (filteredSummerCottagesByRoomsAndLivingRoomNumber.isEmpty()){
             System.out.println("Could not find any property for this criteria!");
         } else {

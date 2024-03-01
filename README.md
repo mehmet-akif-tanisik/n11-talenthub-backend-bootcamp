@@ -6,10 +6,10 @@ This repository contains homeworks of n11 Talenthub Backend Bootcamp provided by
 - <a href="https://github.com/mehmet-akif-tanisik/n11-talenthub-backend-bootcamp/tree/main/n11-talenthub-cohorts-homework-01">
    Homework - 01
   </a>
-- <a href="https://github.com/mehmet-akif-tanisik/n11-talenthub-backend-bootcamp/tree/main/n11-talenthub-cohorts-homework-01">
+- <a href="https://github.com/mehmet-akif-tanisik/n11-talenthub-backend-bootcamp/tree/main/n11-talenthub-cohorts-homework-02">
    Homework - 02
   </a>
-- <a href="https://github.com/mehmet-akif-tanisik/n11-talenthub-backend-bootcamp/tree/main/n11-talenthub-cohorts-homework-01">
+- <a href="https://github.com/mehmet-akif-tanisik/n11-talenthub-backend-bootcamp/tree/main/n11-talenthub-cohorts-homework-03">
    Homework - 03
   </a>
 
